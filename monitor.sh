@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define here a valid email address where notigications will be send to
-EMAIL_ADDRESS="delanhype@gmail.com"
+EMAIL_ADDRESS="email@domain.com"
 
 # Declare here a list of hosts
 declare -a HOST=("192.168.56.101" "192.168.56.102" "192.168.56.103")
